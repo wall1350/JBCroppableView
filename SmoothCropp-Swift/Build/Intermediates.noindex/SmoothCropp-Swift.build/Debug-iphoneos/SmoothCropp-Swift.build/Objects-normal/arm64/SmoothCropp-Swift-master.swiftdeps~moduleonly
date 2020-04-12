@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "75ff4a0ee6817220b4cb78e458175d70"
+build_time: [1586694965, 733328000]
+inputs:
+  "/Users/wall1350/Downloads/NGCropview-master/SmoothCropp-Swift/SmoothCropp-Swift/ViewController.swift": [1586694965, 94507152]
+  "/Users/wall1350/Downloads/NGCropview-master/SmoothCropp-Swift/SmoothCropp-Swift/AppDelegate.swift": [1457894276, 0]
